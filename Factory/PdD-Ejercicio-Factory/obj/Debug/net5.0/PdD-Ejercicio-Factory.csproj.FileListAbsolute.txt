@@ -1,0 +1,15 @@
+C:\Users\Maia\Desktop\2°año TDS\Programación\PdD-Ejercicio-Factory\PdD-Ejercicio-Factory\bin\Debug\net5.0\PdD-Ejercicio-Factory.exe
+C:\Users\Maia\Desktop\2°año TDS\Programación\PdD-Ejercicio-Factory\PdD-Ejercicio-Factory\bin\Debug\net5.0\PdD-Ejercicio-Factory.deps.json
+C:\Users\Maia\Desktop\2°año TDS\Programación\PdD-Ejercicio-Factory\PdD-Ejercicio-Factory\bin\Debug\net5.0\PdD-Ejercicio-Factory.runtimeconfig.json
+C:\Users\Maia\Desktop\2°año TDS\Programación\PdD-Ejercicio-Factory\PdD-Ejercicio-Factory\bin\Debug\net5.0\PdD-Ejercicio-Factory.runtimeconfig.dev.json
+C:\Users\Maia\Desktop\2°año TDS\Programación\PdD-Ejercicio-Factory\PdD-Ejercicio-Factory\bin\Debug\net5.0\PdD-Ejercicio-Factory.dll
+C:\Users\Maia\Desktop\2°año TDS\Programación\PdD-Ejercicio-Factory\PdD-Ejercicio-Factory\bin\Debug\net5.0\PdD-Ejercicio-Factory.pdb
+C:\Users\Maia\Desktop\2°año TDS\Programación\PdD-Ejercicio-Factory\PdD-Ejercicio-Factory\obj\Debug\net5.0\PdD-Ejercicio-Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maia\Desktop\2°año TDS\Programación\PdD-Ejercicio-Factory\PdD-Ejercicio-Factory\obj\Debug\net5.0\PdD-Ejercicio-Factory.AssemblyInfoInputs.cache
+C:\Users\Maia\Desktop\2°año TDS\Programación\PdD-Ejercicio-Factory\PdD-Ejercicio-Factory\obj\Debug\net5.0\PdD-Ejercicio-Factory.AssemblyInfo.cs
+C:\Users\Maia\Desktop\2°año TDS\Programación\PdD-Ejercicio-Factory\PdD-Ejercicio-Factory\obj\Debug\net5.0\PdD-Ejercicio-Factory.csproj.CoreCompileInputs.cache
+C:\Users\Maia\Desktop\2°año TDS\Programación\PdD-Ejercicio-Factory\PdD-Ejercicio-Factory\obj\Debug\net5.0\PdD-Ejercicio-Factory.dll
+C:\Users\Maia\Desktop\2°año TDS\Programación\PdD-Ejercicio-Factory\PdD-Ejercicio-Factory\obj\Debug\net5.0\refint\PdD-Ejercicio-Factory.dll
+C:\Users\Maia\Desktop\2°año TDS\Programación\PdD-Ejercicio-Factory\PdD-Ejercicio-Factory\obj\Debug\net5.0\PdD-Ejercicio-Factory.pdb
+C:\Users\Maia\Desktop\2°año TDS\Programación\PdD-Ejercicio-Factory\PdD-Ejercicio-Factory\obj\Debug\net5.0\PdD-Ejercicio-Factory.genruntimeconfig.cache
+C:\Users\Maia\Desktop\2°año TDS\Programación\PdD-Ejercicio-Factory\PdD-Ejercicio-Factory\obj\Debug\net5.0\ref\PdD-Ejercicio-Factory.dll

@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\factory\\pdd-ejercicio-factory\\google\\googlegeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|solutionrelative:pdd-ejercicio-factory\\google\\googlegeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\factory\\pdd-ejercicio-factory\\interfaces\\igeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|solutionrelative:pdd-ejercicio-factory\\interfaces\\igeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\factory\\pdd-ejercicio-factory\\osm\\osmgeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|solutionrelative:pdd-ejercicio-factory\\osm\\osmgeocoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\factory\\pdd-ejercicio-factory\\osm\\osmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|solutionrelative:pdd-ejercicio-factory\\osm\\osmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\factory\\pdd-ejercicio-factory\\osm\\osmmapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|solutionrelative:pdd-ejercicio-factory\\osm\\osmmapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\factory\\pdd-ejercicio-factory\\google\\googlemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|solutionrelative:pdd-ejercicio-factory\\google\\googlemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\factory\\pdd-ejercicio-factory\\interfaces\\imap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|solutionrelative:pdd-ejercicio-factory\\interfaces\\imap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\factory\\pdd-ejercicio-factory\\interfaces\\imapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|solutionrelative:pdd-ejercicio-factory\\interfaces\\imapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\factory\\pdd-ejercicio-factory\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|solutionrelative:pdd-ejercicio-factory\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\factory\\pdd-ejercicio-factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|solutionrelative:pdd-ejercicio-factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\factory\\pdd-ejercicio-factory\\google\\googlemapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9F9725-5913-4FE4-A9BA-D3DDAF7199AD}|PdD-Ejercicio-Factory\\PdD-Ejercicio-Factory.csproj|solutionrelative:pdd-ejercicio-factory\\google\\googlemapservicesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMapServicesFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\Interfaces\\IMapServicesFactory.cs",
+              "RelativeDocumentMoniker": "PdD-Ejercicio-Factory\\Interfaces\\IMapServicesFactory.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\Interfaces\\IMapServicesFactory.cs",
+              "RelativeToolTip": "PdD-Ejercicio-Factory\\Interfaces\\IMapServicesFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T23:26:48.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMap.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\Interfaces\\IMap.cs",
+              "RelativeDocumentMoniker": "PdD-Ejercicio-Factory\\Interfaces\\IMap.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\Interfaces\\IMap.cs",
+              "RelativeToolTip": "PdD-Ejercicio-Factory\\Interfaces\\IMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T23:22:25.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OsmMap.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\OSM\\OsmMap.cs",
+              "RelativeDocumentMoniker": "PdD-Ejercicio-Factory\\OSM\\OsmMap.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\OSM\\OsmMap.cs",
+              "RelativeToolTip": "PdD-Ejercicio-Factory\\OSM\\OsmMap.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T00:21:01.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OsmGeocoder.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\OSM\\OsmGeocoder.cs",
+              "RelativeDocumentMoniker": "PdD-Ejercicio-Factory\\OSM\\OsmGeocoder.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\OSM\\OsmGeocoder.cs",
+              "RelativeToolTip": "PdD-Ejercicio-Factory\\OSM\\OsmGeocoder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T00:22:25.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGeocoder.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\Interfaces\\IGeocoder.cs",
+              "RelativeDocumentMoniker": "PdD-Ejercicio-Factory\\Interfaces\\IGeocoder.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\Interfaces\\IGeocoder.cs",
+              "RelativeToolTip": "PdD-Ejercicio-Factory\\Interfaces\\IGeocoder.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T23:25:56.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoogleGeocoder.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\Google\\GoogleGeocoder.cs",
+              "RelativeDocumentMoniker": "PdD-Ejercicio-Factory\\Google\\GoogleGeocoder.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\Google\\GoogleGeocoder.cs",
+              "RelativeToolTip": "PdD-Ejercicio-Factory\\Google\\GoogleGeocoder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T00:09:30.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\Program.cs",
+              "RelativeDocumentMoniker": "PdD-Ejercicio-Factory\\Program.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\Program.cs",
+              "RelativeToolTip": "PdD-Ejercicio-Factory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T23:08:29.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GoogleMap.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\Google\\GoogleMap.cs",
+              "RelativeDocumentMoniker": "PdD-Ejercicio-Factory\\Google\\GoogleMap.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\Google\\GoogleMap.cs",
+              "RelativeToolTip": "PdD-Ejercicio-Factory\\Google\\GoogleMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T23:44:51.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Navegador.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\Navegador.cs",
+              "RelativeDocumentMoniker": "PdD-Ejercicio-Factory\\Navegador.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\Navegador.cs",
+              "RelativeToolTip": "PdD-Ejercicio-Factory\\Navegador.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T19:00:49.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OsmMapServicesFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\OSM\\OsmMapServicesFactory.cs",
+              "RelativeDocumentMoniker": "PdD-Ejercicio-Factory\\OSM\\OsmMapServicesFactory.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\OSM\\OsmMapServicesFactory.cs",
+              "RelativeToolTip": "PdD-Ejercicio-Factory\\OSM\\OsmMapServicesFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T00:23:45.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GoogleMapServicesFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\Google\\GoogleMapServicesFactory.cs",
+              "RelativeDocumentMoniker": "PdD-Ejercicio-Factory\\Google\\GoogleMapServicesFactory.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\Factory\\PdD-Ejercicio-Factory\\Google\\GoogleMapServicesFactory.cs",
+              "RelativeToolTip": "PdD-Ejercicio-Factory\\Google\\GoogleMapServicesFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T00:04:42.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
