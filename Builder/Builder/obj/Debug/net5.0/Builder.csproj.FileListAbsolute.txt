@@ -1,0 +1,16 @@
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Builder\Builder\bin\Debug\net5.0\Builder.exe
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Builder\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Builder\Builder\bin\Debug\net5.0\Builder.dll
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Builder\Builder\bin\Debug\net5.0\Builder.pdb
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Builder\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Builder\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Builder\Builder\obj\Debug\net5.0\Builder.sourcelink.json
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Builder\Builder\obj\Debug\net5.0\Builder.dll
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Builder\Builder\obj\Debug\net5.0\refint\Builder.dll
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Builder\Builder\obj\Debug\net5.0\Builder.pdb
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Builder\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\Builder\Builder\obj\Debug\net5.0\ref\Builder.dll
